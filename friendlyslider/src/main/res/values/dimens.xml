@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="sliderDefaultHeight">35dp</dimen>
+    <dimen name="sliderTextSize">14sp</dimen>
+    <dimen name="sliderCircleRadius">13dp</dimen>
+    <dimen name="sliderCircleVerticalPadding">3dp</dimen>
+</resources>
