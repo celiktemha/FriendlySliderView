@@ -4,8 +4,8 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.widget.Toast;
 
-import com.celiktemha.friendlyslider.FriendlySliderView;
-import com.celiktemha.friendlyslider.OnSliderValueChangeListener;
+import com.celiktemha.friendlysliderview.FriendlySliderView;
+import com.celiktemha.friendlysliderview.OnSliderValueChangeListener;
 
 public class MainActivity extends AppCompatActivity {
     @Override

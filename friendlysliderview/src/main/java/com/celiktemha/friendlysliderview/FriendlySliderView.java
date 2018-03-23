@@ -1,4 +1,4 @@
-package com.celiktemha.friendlyslider;
+package com.celiktemha.friendlysliderview;
 
 import android.animation.Animator;
 import android.animation.AnimatorListenerAdapter;
@@ -17,6 +17,8 @@ import android.view.MotionEvent;
 import android.view.View;
 import android.view.ViewGroup;
 import android.view.animation.AccelerateDecelerateInterpolator;
+
+import com.celiktemha.friendlyslider.R;
 
 import java.util.ArrayList;
 

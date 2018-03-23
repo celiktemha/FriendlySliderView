@@ -1,4 +1,4 @@
-package com.celiktemha.friendlyslider;
+package com.celiktemha.friendlysliderview;
 
 /**
  * Created by ahmetcelik on 18.01.2018.

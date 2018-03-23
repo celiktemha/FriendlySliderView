@@ -7,7 +7,7 @@
     android:orientation="vertical"
     tools:context="com.celiktemha.friendlysliderexample.MainActivity">
 
-    <com.celiktemha.friendlyslider.FriendlySliderView
+    <com.celiktemha.friendlysliderview.FriendlySliderView
         android:id="@+id/friendlySliderView"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
