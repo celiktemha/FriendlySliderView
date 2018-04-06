@@ -290,7 +290,7 @@ public class FriendlySliderView extends View {
                 break;
         }
 
-        currentX = event.getX() - sliderCircleSize * 2;
+        currentX = event.getX() - sliderCircleSize;
         invalidate();
 
         return true;
