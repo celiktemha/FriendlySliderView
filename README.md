@@ -11,7 +11,7 @@ Inspired by https://github.com/Ramotion/fluid-slider-android
 
 Gradle:
 ```groovy
-implementation 'com.celiktemha:friendlysliderview:1.0.0'
+implementation 'com.celiktemha:friendlysliderview:1.0.1'
 ```
 
 Maven:
