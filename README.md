@@ -4,14 +4,14 @@ User friendly slider widget for Android
 Inspired by https://github.com/Ramotion/fluid-slider-android
 
 
-
 <img src="https://github.com/celiktemha/FriendlySliderView/blob/master/FriendlySilider.gif" width="317" height="566"/>
+
 
 # Usage
 
 Gradle:
 ```groovy
-implementation 'com.celiktemha:friendlysliderview:1.0.0'
+implementation 'com.celiktemha:friendlysliderview:1.0.1'
 ```
 
 Maven:
